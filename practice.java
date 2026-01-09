@@ -2,7 +2,7 @@
 // and find if it is a palindrome or not
 
 // Driver Class
-class Geeks
+class Practice
 {
     // Iterative function to
     // reverse the digits of number
